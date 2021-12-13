@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lambypy
 
-I'm from the UK and currently studying a Masters in Computer Science.
+I'm from the UK and currently studying a Masters in Computer Science while doing internships.
 
 - 👀 I’m interested in ...
 
