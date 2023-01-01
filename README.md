@@ -3,7 +3,7 @@
 I'm from the UK and currently studying a Masters in Computer Science, while doing internships.
 
 Some of my links:
-My work-in-progress portfolio website: [Portfolio Website](http://www.danpam.com/)
+I will update these in due time, but currently working on several applications and webapps.
 
 - 👀 I’m interested in ...
 
