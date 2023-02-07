@@ -1,19 +1,25 @@
-- 👋 Hi, I’m @lambypy
+### 👋 Hi, I’m Daniel
 
-I'm from the UK and currently studying a Masters in Computer Science, while doing internships.
+- 📚 What am I currently doing? Studying a Masters in Computer Science at the University of York with an expected graduation date of March 2024. In addition, I will be working at Balyasny Asset Management over the summer as a software engineer intern.
 
-Some of my links:
 
-I will update these in due time, but currently working on several applications and webapps.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-lambert98/) or you can contact me through my email: [danbudcs@gmail.com](mailto:danbudcs@gmail.com)
 
-- 👀 I’m interested in ...
 
-Improving my abilities and tackling challenging problems!
+- 📌 Where else can you find me? Please check out my website [danpam.com](danpam.com)
 
-- 🌱 I’m currently learning ...
+----
 
-A wide variety of new technologies and languages. I try to improve my foundational programming knowledge through learning and experiencing new languages. Besides that, there is also the opportunity to learn new libraries. Python & C++ are my main languages right now, but OCaml is also being used.
+#### Some of the projects I've been working on:
 
-- 📫 How to reach me ...
+- [FireFlash](https://github.com/lambypy/FireFlash): A smart flash card application for language learning and memorization.
 
-Through [LinkedIn](https://www.linkedin.com/in/daniel-lambert98/) or you can contact me through my email: danbudcs@gmail.com
+- [MyCaml](https://github.com/lambypy/MyCaml): A Custom Compiler using the OCaml programming language.
+
+- [PropellerPenguin](https://github.com/lambypy/PropellerPenguin): A single player platforming game (soon to release on app stores)
+
+- [InsoSearch](https://github.com/lambypy/InsoSearch): An improved search engine with no placed advertisements and relevant results to your preferences.
+
+- [Combinify](https://github.com/lambypy/Combinify): Aggregation of news sources for the most factually accurate stories.
+
+#### Check my website to see more in-depth examples and demos of the above projects.
