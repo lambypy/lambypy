@@ -22,4 +22,10 @@
 
 - [Combinify](https://github.com/lambypy/Combinify): Aggregation of news sources for the most factually accurate stories.
 
+- [BoltWR](https://github.com/lambypy/BoltWR): A supervised ML model aimed at beating world records at video games.
+
+- [Olympic Games Predictor](): An application to predict future event winnings and medal allocations by country and competitor within the Olympic Games.
+
+- [SecureCam](https://github.com/lambypy/RealTimeObjectDetection): A security camera with real-time facial recognition for enhanced property security.
+
 #### Check my website to see more in-depth examples and demos of the above projects.
