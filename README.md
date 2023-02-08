@@ -28,4 +28,6 @@
 
 - [SecureCam](https://github.com/lambypy/RealTimeObjectDetection): A security camera with real-time facial recognition for enhanced property security.
 
+- [ClusterGames](https://github.com/lambypy/ClusterGames): A collection of custom video games to play alone or with friends.
+
 #### Check my website to see more in-depth examples and demos of the above projects.
