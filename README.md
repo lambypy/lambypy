@@ -6,7 +6,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-lambert98/) or you can contact me through my email: [danbudcs@gmail.com](mailto:danbudcs@gmail.com)
 
 
-- 📌 Where else can you find me? Please check out my website [danpam.com](https://www.danpam.com)
+- 📌 Where else can you find me? Please check out my website: [danpam.com](https://www.danpam.com)
 
 ----
 
