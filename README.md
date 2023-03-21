@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Daniel
 
-- 📚 What am I currently doing? Studying a Masters in Computer Science at the [University of York](https://www.york.ac.uk/) with an expected graduation date of March 2024. In addition, I will be working at [Balyasny Asset Management](https://www.bamfunds.com/) over the summer as a software engineer intern.
+- 📚 What am I currently doing? Studying a Masters in Computer Science at the [University of York](https://www.york.ac.uk/) with a graduation date of January 2024. In addition, I will be working at [Balyasny Asset Management](https://www.bamfunds.com/) over the summer as a software engineer intern.
 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-lambert98/) or you can contact me through my email: [danbudcs@gmail.com](mailto:danbudcs@gmail.com)
