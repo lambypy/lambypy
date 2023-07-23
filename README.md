@@ -30,4 +30,4 @@
 
 - [ClusterGames](https://github.com/lambypy/ClusterGames): A collection of custom video games to play alone or with friends.
 
-#### Check my website to see more in-depth examples and demos of the above projects.
+#### Check my website to see more in-depth examples and demos of my projects.
