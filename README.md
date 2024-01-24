@@ -12,6 +12,8 @@
 
 #### Some of the projects I've been working on:
 
+- [Solar System Gravitation](https://github.com/lambypy/SolarSystemGravitation): A program to see the affects of gravitation on asteroids orbiting planets.
+
 - [FireFlash](https://github.com/lambypy/FireFlash): A smart flash card application for language learning and memorization.
 
 - [MyCaml](https://github.com/lambypy/MyCaml): A Custom Compiler using the OCaml programming language.
