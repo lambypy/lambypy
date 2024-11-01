@@ -3,9 +3,10 @@
 - 📚 What am I currently doing? Working on backend projects using Java, Python & C++.
 
 ---
-Companies Worked at:
+Experience:
 - Currently working as a software engineer at [Lloyds Banking Group](https://www.lloydsbank.com/) on the Core Banking Team.
 - [Balyasny Asset Management](https://www.bamfunds.com/) as a software engineer intern on the market data team.
+- Startup company working on backend microservices.
 
 ---
 Previous Studies:
