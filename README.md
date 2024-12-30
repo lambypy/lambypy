@@ -14,4 +14,4 @@ Previous Studies:
 - Newcastle University
 
 ---
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-lambert98/) or you can contact me through my email: [danbudcs@gmail.com](mailto:danbudcs@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-lambert-cs/) or you can contact me through my email: [danbudcs@gmail.com](mailto:danbudcs@gmail.com)
