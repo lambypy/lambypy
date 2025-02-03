@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m Daniel
 
-- 📚 What am I currently doing? Working on backend projects using Java, Python & C++.
+- 📚 What am I currently doing? Working on projects using Java, Python & C++.
 
 ---
 Experience:
-- Currently working as a software engineer at [Lloyds Banking Group](https://www.lloydsbank.com/) on the Core Banking Team.
-- [Balyasny Asset Management](https://www.bamfunds.com/) as a software engineer intern on the market data team.
+- Currently working as a software engineer at [Lloyds Banking Group](https://www.lloydsbank.com/) within the Core Banking Platform.
+- [Balyasny Asset Management](https://www.bamfunds.com/) as a software engineer intern on the Market Data team.
 - Startup company working on backend microservices.
 
 ---
