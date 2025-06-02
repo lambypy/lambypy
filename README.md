@@ -17,7 +17,8 @@ Previous Studies:
 
 ## &#x1f4c8; GitHub Stats
 
-![github-metrics.svg](/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/<yourusername>/<yourusername>/main/github-metrics.svg)
+
 
 
 ---
