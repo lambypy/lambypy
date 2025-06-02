@@ -14,4 +14,11 @@ Previous Studies:
 - Newcastle University
 
 ---
+
+## &#x1f4c8; GitHub Stats
+
+![github-metrics.svg](/github-metrics.svg)
+
+
+---
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-lambert-cs/) or you can contact me through my email: [danbudcs@gmail.com](mailto:danbudcs@gmail.com)
