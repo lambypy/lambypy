@@ -17,7 +17,7 @@ Previous Studies:
 
 ## &#x1f4c8; GitHub Stats
 
-![Metrics](https://raw.githubusercontent.com/<yourusername>/<yourusername>/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/lambypy/lambypy/main/github-metrics.svg)
 
 
 
