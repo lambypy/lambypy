@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Daniel
 
-- 📚 What am I currently doing? Working on projects using Java, Python & C++.
+Building apps!
 
 ---
 Experience:
